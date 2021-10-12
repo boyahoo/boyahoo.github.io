@@ -1,4 +1,4 @@
-## Google Pixel 3完美电信4G
+## Google Pixel 3 完美电信 4G 
 
 十一前下单了一台 Google Pixel 3 手机，来回折腾了几遍，搞定了电信的电话、短信和上网，简单做个总结。
 
